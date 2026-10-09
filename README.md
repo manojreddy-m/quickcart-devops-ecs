@@ -1,1 +1,0 @@
-# quickcart-devops-ecs
